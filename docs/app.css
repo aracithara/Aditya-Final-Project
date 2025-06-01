@@ -3,12 +3,12 @@
 
 :root {
   /* Color palette */
-  --primary-color: #4facfe;
-  --primary-dark: #db3477;
-  --secondary-color: #00f2fe;
+  --primary-color: #578E7E;
+  --primary-dark: #9DC08B;
+  --secondary-color: #3D3D3D;
   --background-dark: rgba(17, 25, 40, 0.95);
-  --bg-light: #ffffff;
-  --bg-medium: #cbd6d7;
+  --bg-light: #FFFAEC;
+  --bg-medium: #FFFAEC;
   --text-dark: #333333;
   --text-medium: #555555;
   --white: #ffffff;
